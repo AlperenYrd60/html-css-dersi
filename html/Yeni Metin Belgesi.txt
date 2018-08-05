@@ -1,0 +1,55 @@
+SÝBER GÜVENLÝK
+
+canyoupwn.me
+cezerisga
+blackbox
+-------------------------------------------------------
+HTML CSS
+
+<html + enter 
+
+baþlýðý title nin arasýna koy
+
+türkçe karakter desteklemesi içinü
+
+<meta + enter titlenin üstüne
+
+sözcülerin alt alt inmesi için     <br>
+
+klaýnlýk kodu <b + enter
+style +enter
+color picker deðiþik renk paleti
+font-family yazý þekilni deðiþtirme
+font size büyültme
+karesi falan için <sup + enter
+sub yazýnca altýna yazar
+
+
+eðilmiþ yazý <i + enter
+
+ortadan çizgi için <s +enter
+altý çizili sözcuk yapmak için <u +enter
+
+h1 en büyük yazý þekli
+h6 en küçük yazý þekli
+
+h1-2-3-4-5-6 larda <br> kullanmaya gerek yokkk!!!
+
+Ortaya alma <center +enter
+
+lorem +tab uzun bir rasgele metin
+
+paragraf oluþturma &emsp;
+
+uzun boþluk býrakmak için &nbsp;
+
+link için a+tab yeni sekmede açmak için 
+
+
+duz yazýya ek verme font +enter
+ 
+mark fosforlu kalem renginde çizmek için
+w3schools
+body{
+background: url(ok.jpg) no-repeat center center fixed;
+background-size: cover;
